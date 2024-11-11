@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAGkAlHrwPgUO7x9jQtYjc9QAAAAACAAAAAAAQZgAAAAEAACAAAADYMSN1y3XHYdizJWcqqIo62gBPlkDeFImOaoNeXJ9ZjgAAAAAOgAAAAAIAACAAAAAlzZ7UBdnXWQWlMXSMOMNVybRruSb/oPiYT1q2Pq7On4AAAAB9BnksPW7mUm8jssvatkWiM0JH7a8gEOnO/bQnTxmZSeG7ToOMzchiBr1p4QMiyJToJ3dz+VtuCEzIiW5ovLeOPSWdbGJEofoITdddQXPmfvmK6eykKxZiTj6FHEJ4Ki/Nz6RghMWiZ1N6jy32PlHitZe7vVFenadOF8TxL6nw4kAAAADJ1s0ihv73LGQiyX2dYm3Eyhig1eotWoRgsy4ytMSfsnYVNgJbV2npNYNwZ/5IE5S0TamePsgmtRReR7f9x3vL</EncryptedPassword>
+    <History>True|2023-10-12T20:34:11.8629203Z;True|2023-10-12T23:27:15.7921426+03:00;True|2023-10-12T23:01:31.5265571+03:00;True|2023-10-12T22:57:54.7673130+03:00;False|2023-10-12T22:53:36.0402395+03:00;False|2023-10-12T22:50:19.4443905+03:00;True|2023-10-12T22:26:46.4260417+03:00;True|2023-10-12T22:10:44.6286571+03:00;True|2023-10-12T19:33:40.4895679+03:00;True|2023-10-12T19:29:15.1573083+03:00;True|2023-10-12T19:27:10.6008923+03:00;True|2023-10-12T18:53:26.0332709+03:00;True|2023-10-09T20:23:05.7047478+03:00;True|2023-10-09T20:20:52.0133749+03:00;True|2023-10-09T18:34:17.0104653+03:00;True|2023-10-05T18:32:58.6401151+03:00;True|2023-10-04T13:46:39.7878399+03:00;True|2023-10-03T21:37:55.8425125+03:00;True|2023-10-03T21:14:34.4321196+03:00;False|2023-10-03T21:12:21.9620103+03:00;True|2023-10-03T21:07:29.2792193+03:00;False|2023-10-03T21:05:12.4140632+03:00;True|2023-10-02T23:24:52.1544612+03:00;True|2023-10-02T23:12:05.5585280+03:00;True|2023-10-02T22:44:00.1694104+03:00;True|2023-10-02T22:14:06.3002453+03:00;False|2023-10-02T22:12:54.6490265+03:00;False|2023-10-02T22:06:21.3003099+03:00;False|2023-10-02T22:05:49.3449312+03:00;False|2023-10-02T22:05:11.7557994+03:00;True|2023-10-02T19:55:51.8282913+03:00;True|2023-09-28T21:39:14.0099379+03:00;True|2023-09-28T19:37:05.2911341+03:00;True|2023-09-21T22:41:37.0687720+03:00;False|2023-09-21T22:30:47.6856536+03:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="HermesChatContextConnection">
+      <Value>Data Source=hermeschatdbdbserver.database.windows.net,1433%3bInitial Catalog=HermesChatdb%3bUser ID=adminLonija%3bPassword=Ga1lenes</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="HermesChat.Data.Context.HermesChatContext">
+      <Value>Data Source=hermeschatdbdbserver.database.windows.net,1433%3bInitial Catalog=HermesChatdb%3bUser ID=adminLonija%3bPassword=Ga1lenes</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

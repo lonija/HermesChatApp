@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAGkAlHrwPgUO7x9jQtYjc9QAAAAACAAAAAAAQZgAAAAEAACAAAAAkPqp+jpzHEupK4T8paOG0Qdxib8UV+vHcdUgnU0oTvAAAAAAOgAAAAAIAACAAAAAq5C1Eh0XnBIT2PxOrKrZRwX5jZHldJ1y/FP+pXtBnLIAAAABxv7yLMJ9iJHVBcjltKOSL7tbIFQLVqaxoADhnv+o2OUrvi/OU3mHG8D0CRiuMVcC7Z35L1mmI/pSngFM06eD95WBmLlYPvAw3uksA3Io+BINQ+pyzjey+E7T3nLeGqCTy8tp86F2lr9bw6wLdzpjvnFJyPskZAwdiZRCrvGocukAAAAAoV9WwhdEqHBeEYlyxRufUO2iIvoewWZ3yzQJaCNySmBc8kXHQd5rDnsoIM6ZbiYRaTFl6SsCymvKIox0G9yj/</EncryptedPassword>
+    <History>False|2023-09-21T18:34:40.1796508Z;True|2023-09-21T21:12:26.2255604+03:00;False|2023-09-21T21:09:04.3810098+03:00;False|2023-09-21T20:57:50.5801139+03:00;False|2023-09-21T20:30:36.8672277+03:00;False|2023-09-21T20:11:48.6820520+03:00;True|2023-09-19T19:48:51.5568044+03:00;True|2023-09-18T14:23:25.9902609+03:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="HermesChatContextConnection">
+      <Value>Data Source=hermeschatdbdbserver.database.windows.net,1433%3bInitial Catalog=HermesChatdb%3bUser ID=adminLonija%3bPassword=Ga1lenes</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="HermesChat.Data.Context.HermesChatContext">
+      <Value>Data Source=hermeschatdbdbserver.database.windows.net,1433%3bInitial Catalog=HermesChatdb%3bUser ID=adminLonija%3bPassword=Ga1lenes</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>
