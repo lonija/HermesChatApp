@@ -1,0 +1,12 @@
+C:\Users\Lonija\source\repos\HermesChat\HermesChat.Data\bin\Release\net6.0\HermesChat.Data.deps.json
+C:\Users\Lonija\source\repos\HermesChat\HermesChat.Data\bin\Release\net6.0\HermesChat.Data.dll
+C:\Users\Lonija\source\repos\HermesChat\HermesChat.Data\bin\Release\net6.0\HermesChat.Data.pdb
+C:\Users\Lonija\source\repos\HermesChat\HermesChat.Data\obj\Release\net6.0\HermesChat.Data.csproj.AssemblyReference.cache
+C:\Users\Lonija\source\repos\HermesChat\HermesChat.Data\obj\Release\net6.0\HermesChat.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lonija\source\repos\HermesChat\HermesChat.Data\obj\Release\net6.0\HermesChat.Data.AssemblyInfoInputs.cache
+C:\Users\Lonija\source\repos\HermesChat\HermesChat.Data\obj\Release\net6.0\HermesChat.Data.AssemblyInfo.cs
+C:\Users\Lonija\source\repos\HermesChat\HermesChat.Data\obj\Release\net6.0\HermesChat.Data.csproj.CoreCompileInputs.cache
+C:\Users\Lonija\source\repos\HermesChat\HermesChat.Data\obj\Release\net6.0\HermesChat.Data.dll
+C:\Users\Lonija\source\repos\HermesChat\HermesChat.Data\obj\Release\net6.0\refint\HermesChat.Data.dll
+C:\Users\Lonija\source\repos\HermesChat\HermesChat.Data\obj\Release\net6.0\HermesChat.Data.pdb
+C:\Users\Lonija\source\repos\HermesChat\HermesChat.Data\obj\Release\net6.0\ref\HermesChat.Data.dll
